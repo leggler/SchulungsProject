@@ -1,0 +1,1 @@
+[{"Wert": 3.0, "BasisEinheit": "kWh", "ZielEinheit": "kWh", "ZielWert": 3.0}, {"Wert": 3.0, "BasisEinheit": "kWh", "ZielEinheit": "kWh", "ZielWert": 3.0}, {"Wert": 3.0, "BasisEinheit": "kWh", "ZielEinheit": "kWh", "ZielWert": 3.0}]
