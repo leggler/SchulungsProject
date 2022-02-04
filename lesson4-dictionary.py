@@ -10,3 +10,7 @@ print(box_dict["width"])
 mixed_dict = {"age": 44, "name": "lukas", "married": False, "size": 3.43}
 
 print(mixed_dict["name"])
+
+verschachteltes_dict = {"box": box_list, "color":"red"}
+print(verschachteltes_dict)
+

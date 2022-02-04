@@ -18,3 +18,17 @@ print(example_list) #ausgabe ganze liste
 for item in mixed_list:
     print(item)
 
+#einzelne werte hinzufügen
+example_list.append(23)
+print(example_list)
+
+
+#einer liste eine liste hinzufügen
+example_list.append(mixed_list)
+print(example_list)
+
+#lieber die einzelnen werte
+
+for item in mixed_list:
+    example_list.append(item)
+print(example_list)

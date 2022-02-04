@@ -5,7 +5,7 @@ import json #lesen, schreiben, bearbeiten von key-value pairs
 import datetime
 
 current_time = datetime.datetime.now()
-print (current_time)
+print(current_time)
 
 
 secret = random.randint(1, 30)
@@ -13,7 +13,7 @@ secret = random.randint(1, 30)
 attempts = 0
 
 
-with open("lesson5-game-score.txt","r") as score_file:
+with open("lesson5-game-score.txt", "r") as score_file:
     score_list = json.loads(score_file.read()) #bei einem leeren file muss [] sein damit json lesen kann
 #    score_list.sort()
 #    print("Top scores:" + str(score_list[:2]))  # [:3] --> erste drei elemente der lsite; [3:] --> alle ab dem dritten element;
@@ -39,10 +39,3 @@ while True:
         print("Falsch, die gesuchte Zahl ist kleiner.")
     elif guess < secret:
         print("Falsch, die gesuchte Zahl ist größer.")
-
-
-
-
-
-
-

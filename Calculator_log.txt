@@ -1,1 +1,2 @@
-[{"Wert": 3.0, "BasisEinheit": "kWh", "ZielEinheit": "kWh", "ZielWert": 3.0}, {"Wert": 3.0, "BasisEinheit": "kWh", "ZielEinheit": "kWh", "ZielWert": 3.0}, {"Wert": 3.0, "BasisEinheit": "kWh", "ZielEinheit": "kWh", "ZielWert": 3.0}]
+[{"Wert": 3.0, "BasisEinheit": "kWh", "ZielEinheit": "kWh", "ZielWert": 3.0}, {"Wert": 3.0, "BasisEinheit": "kWh", "ZielEinheit": "kWh", "ZielWert": 3.0}, {"Wert": 3.0, "BasisEinheit": "kWh", "ZielEinheit": "kWh", "ZielWert": 3.0}]Eingegebene Zahl: 15.0 kWh; Ergebnis: 54000.0 kJ
+{"Wert": 1234.0, "BasisEinheit": "kWh", "ZielEinheit": "kJ", "ZielWert": 4442400.0},
